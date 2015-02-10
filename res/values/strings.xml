@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Sprit-verbrauch</string>
+    <string name="action_settings">Settings</string>
+    <string name="txtKilometer">Geben Sie bitte die getankten Liter ein:</string>
+	<string name="txtLiter">Geben Sie bitte die gefahrenen Kilometer ein:</string>
+    <string name="bberechnen">Berechnen</string>
+    <string name="txtDurschnitt">Durchschnitt:</string>
+    
+</resources>
